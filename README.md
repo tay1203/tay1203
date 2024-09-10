@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raine</h1>
-<h3 align="center">A Year 2 Software Engineering Student</h3>
-
-- 🌱 I’m currently learning **Frontend Programming**
+<h3 align="center">A Year 3 Software Engineering Student</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
