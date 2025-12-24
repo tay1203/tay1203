@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Tay</h1>
-<h3 align="center">A Year 3 Software Engineering Student</h3>
+<h1 align="center">Hi 👋, I'm Raine</h1>
+<h3 align="center">A Final Year Software Engineering Student</h3>
 
 - 🔭 I’m currently studying at **Monash University**
-
-- 🌱 I’m currently learning **Frontend Programming, Databases, Cybersecurity, UI/UX Design**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
